@@ -10,8 +10,9 @@ body{
 header {
     background-color: #F29F05;
     padding: 10px 0px 10px 0px;
-    
-    
+    font-family: "catseye", sans-serif;
+    font-size: 60px;
+    text-align: center;
 }
 
 
